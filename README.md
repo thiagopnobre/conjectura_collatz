@@ -1,7 +1,7 @@
 Conjectura de Collatz
 ===================
 
-Solução para o problema da Conjectura de Collatz, desenvolvido em 2011, no modelo de maratonas de programação.
+Solução desenvolvida em 2011 para o problema da Conjectura de Collatz, no modelo de maratonas de programação.
 
 #####Detalhes sobre o problema:
 
